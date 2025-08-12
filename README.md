@@ -16,7 +16,7 @@ A pesquisa teve como foco identificar:
 ## 📂 Conteúdo do Repositório
 
 - 📊 `Vagas Dev Web.xlsx` - Versão Excel da planilha de dados;  
-- 📄 `Relatório de Análise Vagas Deb Web.docx` - Relatório completo da análise, contendo tabelas, gráficos e recomendações para desenvolvimento profissional;
+- 📄 `Relatório de Análise Vagas Deb Web.pdf` - Relatório completo da análise, contendo tabelas, gráficos e recomendações para desenvolvimento profissional;
 
 ## 🛠️ Como Usar
 
