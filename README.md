@@ -1,6 +1,6 @@
 # 🚀 Pesquisa de Mercado: Desenvolvimento Web no Brasil
 
-Este repositório contém o projeto desenvolvido para a disciplina de **Análise de Mercado de Trabalho** do curso de **Análise e Desenvolvimento de Sistemas (ADS)**. 🎓💻
+Este repositório contém o projeto desenvolvido para a disciplina de **Design Profissional** do curso de **Análise e Desenvolvimento de Sistemas (ADS)**. 🎓💻
 
 ## 📚 Sobre o Projeto
 
